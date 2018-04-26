@@ -1,5 +1,5 @@
 # MyMiniZinc
 
-All files in this project were written using MiniZinc
+所有代码仅供交流和学习使用，欢迎其它大佬贡献和指正，之后有时间会写一下注释
 
 Xiao GuDong 2018.4.6
